@@ -149,7 +149,7 @@ Al ejecutar la aplicación se muestran en consola:
 
 El recorrido **inorden** permite comprobar que los elementos del árbol se encuentran organizados de acuerdo con las reglas de un árbol binario de búsqueda.
 
-Autor: Jesus Ramirez.
-Profesor: 
-Programacion III.
-Universidad de Manizales.
+Autor: Jesus Ramirez.  
+Profesor: Carlos Alberto Gutierres Rodas.  
+Programacion III.  
+Universidad de Manizales.  
